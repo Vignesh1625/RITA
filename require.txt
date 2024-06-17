@@ -1,0 +1,49 @@
+
+open/close applications
+searching files and folders
+able to tell time/date/weather
+web searching
+control settings like wifi/bluetooth ..
+control settings like sound/brightness
+instal/uninstall applications
+Email updates    
+Other Social Media updates
+
+
+
+Intents
+___________________________________________________________________________________
+    General Information:
+        Weather updates
+        News updates
+        Time and date
+        Local information (restaurants, events, etc.)
+    
+    
+    
+    greetings
+    joke and comedy
+    open application_name
+    close application_name
+    search file "query" 
+    search folder "query"
+    show time/data
+    get_weather
+    search "query"
+    Turn on {control}
+    Turn off {control}
+    Increase {control}
+    Decrease {control}
+    Mute_and _sound {To Turn off/on sound}
+    PlayandPause 
+    set a reminder
+    Check Email Updates
+
+
+______________________________________________________________________________________
+___________________________________________________________________________________
+
+References:
+
+1.https://medium.com/@nutanbhogendrasharma/step-by-step-intent-recognition-with-bert-1473202b8597
+2.

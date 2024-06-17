@@ -1,0 +1,297 @@
+text,intent
+open,open_application
+bring me,open_application
+show me,open_application
+can you open,open_application
+can you show,open_application
+launch,open_application
+i want to see,open_application
+i'd like to open,open_application
+start the app,open_application
+load the application,open_application
+run the app,open_application
+initiate the program,open_application
+open up,open_application
+close,close_application
+exit,close_application
+shut down,close_application
+terminate,close_application
+quit,close_application
+turn off,close_application
+close the app,close_application
+stop the app,close_application
+end the application,close_application
+halt the program,close_application
+shut the application,close_application
+discontinue the app,close_application
+finish the app,close_application
+search file,search_file
+find file,search_file
+locate file,search_file
+look for file,search_file
+can you find the file,search_file
+search for the file,search_file
+locate the file,search_file
+look up file,search_file
+retrieve the file,search_file
+hunt for file,search_file
+track the file,search_file
+seek out the file,search_file
+scan for file,search_file
+search folder,search_folder
+find folder,search_folder
+locate folder,search_folder
+look for folder,search_folder
+can you find the folder,search_folder
+search for the folder,search_folder
+locate the folder,search_folder
+look up folder,search_folder
+retrieve the folder,search_folder
+hunt for folder,search_folder
+track the folder,search_folder
+seek out the folder,search_folder
+scan for folder,search_folder
+what is the time,show_time_date
+what's the date,show_time_date
+tell me the time,show_time_date
+give me the date,show_time_date
+what time is it,show_time_date
+what day is it today,show_time_date
+what is today's date,show_time_date
+current time,show_time_date
+current date,show_time_date
+what day of the week is it,show_time_date
+can you tell me the time,show_time_date
+what date is it today,show_time_date
+what day is it,show_time_date
+show me the weather,get_weather
+what's the weather like,get_weather
+how's the weather today,get_weather
+tell me the weather,get_weather
+give me the weather update,get_weather
+weather report for today,get_weather
+what's the weather forecast,get_weather
+today's weather conditions,get_weather
+current weather,get_weather
+will it rain today,get_weather
+is it sunny outside,get_weather
+what's the temperature,get_weather
+how is the weather outside,get_weather
+search,web_search
+look up,web_search
+find information on,web_search
+google,web_search
+search for,web_search
+look for,web_search
+find details on,web_search
+look into,web_search
+investigate,web_search
+search online,web_search
+browse for,web_search
+seek information on,web_search
+research,web_search
+turn on,turn_on_control
+enable,turn_on_control
+switch on,turn_on_control
+activate,turn_on_control
+start,turn_on_control
+power on,turn_on_control
+turn the control on,turn_on_control
+initiate,turn_on_control
+engage,turn_on_control
+light up,turn_on_control
+start up,turn_on_control
+put on,turn_on_control
+power up,turn_on_control
+turn off,turn_off_control
+disable,turn_off_control
+switch off,turn_off_control
+deactivate,turn_off_control
+stop,turn_off_control
+power off,turn_off_control
+turn the control off,turn_off_control
+shut down,turn_off_control
+cut off,turn_off_control
+disconnect,turn_off_control
+shut off,turn_off_control
+kill,turn_off_control
+halt,turn_off_control
+increase,increase_control
+turn up,increase_control
+raise,increase_control
+boost,increase_control
+amplify,increase_control
+enhance,increase_control
+make it louder,increase_control
+elevate,increase_control
+intensify,increase_control
+up the volume,increase_control
+crank up,increase_control
+heighten,increase_control
+ramp up,increase_control
+decrease,decrease_control
+turn down,decrease_control
+lower,decrease_control
+reduce,decrease_control
+diminish,decrease_control
+lessen,decrease_control
+make it quieter,decrease_control
+decrease the volume,decrease_control
+cut down,decrease_control
+drop,decrease_control
+tone down,decrease_control
+minimize,decrease_control
+bring down,decrease_control
+mute,mute
+silence,mute
+turn off sound,mute
+disable sound,mute
+mute the audio,mute
+silence the volume,mute
+turn off the volume,mute
+cut the sound,mute
+mute the speakers,mute
+quiet the audio,mute
+mute the system,mute
+hush the sound,mute
+shut off audio,mute
+pause the sound,mute
+stop the sound,mute
+pause the music,mute
+pause the audio,mute
+halt the sound,mute
+pause the playback,mute
+stop the audio,mute
+check email updates,check_email_updates
+any new emails,check_email_updates
+email notifications,check_email_updates
+new emails,check_email_updates
+show me my emails,check_email_updates
+do I have new emails,check_email_updates
+are there any new emails,check_email_updates
+any email alerts,check_email_updates
+new email messages,check_email_updates
+unread emails,check_email_updates
+email update status,check_email_updates
+check for emails,check_email_updates
+see new emails,check_email_updates
+remind me to,set_reminder
+set a reminder for,set_reminder
+create a reminder for,set_reminder
+remind me at,set_reminder
+remind me about,set_reminder
+set a reminder to,set_reminder
+remind me on,set_reminder
+schedule a reminder for,set_reminder
+make a reminder for,set_reminder
+set a notification for,set_reminder
+alert me to,set_reminder
+notify me to,set_reminder
+create a notification for,set_reminder
+set an alarm for,set_alarm
+wake me up at,set_alarm
+create an alarm for,set_alarm
+set a wake-up alarm for,set_alarm
+set an alarm at,set_alarm
+alarm for,set_alarm
+wake me up by,set_alarm
+schedule an alarm for,set_alarm
+make an alarm for,set_alarm
+alarm me at,set_alarm
+set a morning alarm,set_alarm
+set an evening alarm,set_alarm
+wake-up alarm at,set_alarm
+what's on my calendar for,check_calendar
+do I have any events on,check_calendar
+show my calendar for,check_calendar
+what's scheduled for,check_calendar
+any appointments on,check_calendar
+check my calendar for,check_calendar
+do I have anything on,check_calendar
+calendar entries for,check_calendar
+events planned for,check_calendar
+appointments on my calendar,check_calendar
+what's in my calendar for,check_calendar
+calendar schedule for,check_calendar
+do I have meetings on,check_calendar
+play,play_music
+start playing,play_music
+play music by,play_music
+play the song,play_music
+play the album,play_music
+play the playlist,play_music
+start the music,play_music
+put on some music,play_music
+play a track,play_music
+turn on the music,play_music
+play some tunes,play_music
+begin the music,play_music
+initiate the music,play_music
+stop music,stop_music
+pause the song,stop_music
+stop the music,stop_music
+pause the music,stop_music
+halt the music,stop_music
+stop playing,stop_music
+turn off the music,stop_music
+end the music,stop_music
+pause playback,stop_music
+halt playback,stop_music
+discontinue the music,stop_music
+cease the music,stop_music
+pause the track,stop_music
+translate,translate
+how do you say,translate
+what's [phrase] in [language],translate
+translate [phrase] to [language],translate
+convert [phrase] to [language],translate
+translate the word,translate
+how to say [phrase] in [language],translate
+translate this phrase,translate
+what is [phrase] in [language],translate
+how do I say [phrase] in [language],translate
+translate text to [language],translate
+how is [phrase] said in [language],translate
+how to translate [phrase] into [language],translate
+how do you translate [phrase] to [language],translate
+what's my battery level,battery_status
+how much battery do I have left,battery_status
+battery status,battery_status
+how much charge is left,battery_status
+battery percentage,battery_status
+what's the battery at,battery_status
+check battery level,battery_status
+remaining battery,battery_status
+battery life,battery_status
+current battery status,battery_status
+battery power remaining,battery_status
+battery capacity left,battery_status
+device battery level,battery_status
+how much storage is left on my device,storage_status
+what's my device storage status,storage_status
+storage status,storage_status
+available storage,storage_status
+remaining storage,storage_status
+check storage,storage_status
+how much space do I have left,storage_status
+storage capacity left,storage_status
+device storage remaining,storage_status
+free storage,storage_status
+device storage capacity,storage_status
+available space on my device,storage_status
+remaining capacity,storage_status
+Tell me a joke,Joke and Comedy
+Do you know any jokes,Joke and Comedy
+Make me laugh,Joke and Comedy
+Tell me something funny,Joke and Comedy
+Give me a comedy,Joke and Comedy
+Share a joke with me,Joke and Comedy
+Can you tell a joke,Joke and Comedy
+I need a laugh,Joke and Comedy
+Do you have a funny story,Joke and Comedy
+Make me giggle,Joke and Comedy
+Tell me a funny joke,Joke and Comedy
+Do you know a good joke,Joke and Comedy
+I want to hear a joke,Joke and Comedy
+Crack a joke,Joke and Comedy
+Cheer me up with a joke,Joke and Comedy
